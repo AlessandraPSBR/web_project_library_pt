@@ -111,18 +111,18 @@
   font-weight: 400;
   margin: 0;
   color: #ffffff;
-  margin-bottom: 68px;
 }
 
 .staff__cards {
   max-width: 760px;
-  margin: auto;
+  margin: 68px auto 0;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: center;
+  align-items: center;
   gap: 40px;
   list-style-type: none;
-  padding-left: 0;
+  padding: 0;
 }
 
 .card {

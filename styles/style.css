@@ -410,6 +410,9 @@
 }
 
 .footer__column-link {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
   color: white;
   text-decoration: none;
   margin-right: 10px;
